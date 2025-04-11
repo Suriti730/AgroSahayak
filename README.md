@@ -1,12 +1,29 @@
-# React + Vite
+# AgroSahayak 🌾
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AgroSahayak is a full-stack React + Vite web application designed to support farmers with crop advisory, soil testing, equipment rentals, marketplace access, weather updates, and much more.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Frontend**: React + Vite
+- **Styling**: Tailwind CSS
+- **Auth**: Clerk
+- **Routing**: React Router
+- **Version Control**: Git + GitHub
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌱 Crop advisory & soil diagnostics
+- 🛒 Marketplace (buy/sell)
+- 🚜 Equipment rental
+- 🌦️ Weather & insurance info
+- 🗣️ Multilingual support
+- 🤖 AI Assistant (coming soon)
+
+---
+
+## Setup Instructions
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Suriti730/AgroSahayak.git
+   cd AgroSahayak
